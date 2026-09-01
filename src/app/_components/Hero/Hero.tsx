@@ -67,19 +67,7 @@ const config = [
             "1.8",
         ],
         link: "https://www.youtube.com/watch?v=N-CL0g6XCgg"
-    },
-    {
-        server: "Practice Config",
-        tags: [
-            "Bots",
-            "Ranked",
-            "Unranked",
-            "Utilities",
-            "Custom Commands",
-            "1.8",
-        ],
-        link: "https://www.youtube.com/watch?v=N-CL0g6XCgg"
-    },
+    }
 ]
 
 export function Hero() {

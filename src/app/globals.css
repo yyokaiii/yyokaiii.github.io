@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-yokai-black: #0a0a0a;
+  --font-inter: var(--font-inter);
+  --color-yokai-muted: #ced4da;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply overflow-x-hidden bg-yokai-black;
+  }
+}

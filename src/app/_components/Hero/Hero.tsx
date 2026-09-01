@@ -43,7 +43,43 @@ const config = [
             "Custom Commands"
         ],
         link: "https://www.youtube.com/watch?v=jyf3dWts8wo"
-    }
+    },
+    {
+        server: "Lifesteal Config",
+        tags: [
+            "Player Levels",
+            "Ranks",
+            "Staff Utilities",
+            "Custom Commands",
+            "Utilities",
+            "New Gamemode",
+        ],
+        link: "https://www.youtube.com/watch?v=mexzKZOWwJQ"
+    },
+    {
+        server: "Practice Config",
+        tags: [
+            "Bots",
+            "Ranked",
+            "Unranked",
+            "Utilities",
+            "Custom Commands",
+            "1.8",
+        ],
+        link: "https://www.youtube.com/watch?v=N-CL0g6XCgg"
+    },
+    {
+        server: "Practice Config",
+        tags: [
+            "Bots",
+            "Ranked",
+            "Unranked",
+            "Utilities",
+            "Custom Commands",
+            "1.8",
+        ],
+        link: "https://www.youtube.com/watch?v=N-CL0g6XCgg"
+    },
 ]
 
 export function Hero() {
